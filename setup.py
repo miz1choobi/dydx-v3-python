@@ -10,7 +10,7 @@ REQUIREMENTS = [
     'eth_keys',
     'eth-account>=0.4.0,<0.6.0',
     'mpmath==1.0.0',
-    'requests>=2.22.0,<3.0.0',
+    'requests>=2.22.0,<3.0.1',
     'sympy==1.6',
     'web3>=5.0.0,<6.0.0',
 ]
